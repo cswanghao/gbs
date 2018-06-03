@@ -151,7 +151,7 @@ for iter = 1:NITER
             lmw = lambda/mw;
             q(v,:) = si-0.5*lmw*di;
         end
-        U(i,idxs0) = SloutionForP14(q,m);
+        U(i,idxs0) = SloutionForP20(q,m);
         clear q;
     end
     % choose the top-k neighbors

@@ -8,7 +8,7 @@ Run_GBS.m or Run_GBS_toy.m.
 
 #### some notes
 1. Run_GBS: Experiments on real-word data (eight real-world datasets).
-   Please set 'choice_graph' and 'choice_metric' to use different graph metrices.
+   Please set 'choice_graph' and 'choice_metric' to use different graph metrices. (Default is our proposed method.)
 2. Run_GBS_toy: Experiments on toy data (two-moon dataset)
 3. GBS: Multi-view Clustering Method on GBS
 

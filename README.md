@@ -1,4 +1,4 @@
-### GBS: Graph-Based System for Multi-view Clustering
+### GBS: A Study of Graph-based System for Multi-view Clustering
 
 This repo hosts the code for paper "A Study of Graph-based System for Multi-view Clustering", Knowledge-Based Systems, 2019.
 
